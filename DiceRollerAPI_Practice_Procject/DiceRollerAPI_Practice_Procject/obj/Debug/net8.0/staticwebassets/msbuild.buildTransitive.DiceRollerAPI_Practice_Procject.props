@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DiceRollerAPI_Practice_Procject.props" />
+</Project>
